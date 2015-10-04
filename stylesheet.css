@@ -65,24 +65,3 @@ text-align:center;
 .grey-section p{
 text-align:center;
 }
-
-.white-section{
-	background-color:white;
-    padding:30px;
-    color:black;
-    padding-top: 20px;
-    padding-right: 50px;
-    padding-bottom: 20px;
-    padding-left: 50px;
-    margin:auto auto;
-    text-align:center;
-}
-
-.white-section h2{
-	font-size:50px;
-	text-align:center;
-}
-
-.white-section p{
-	text-align:center;
-}
