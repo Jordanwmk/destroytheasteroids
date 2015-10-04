@@ -67,7 +67,7 @@ text-align:center;
 }
 
 .white-section{
-background-color:white;
+	background-color:white;
     padding:30px;
     color:black;
     padding-top: 20px;
@@ -79,10 +79,10 @@ background-color:white;
 }
 
 .white-section h2{
-font-size:50px;
-text-align:center;
+	font-size:50px;
+	text-align:center;
 }
 
 .white-section p{
-text-align:center;
+	text-align:center;
 }
